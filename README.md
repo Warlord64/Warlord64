@@ -1,14 +1,14 @@
 ### Hi there 👋
 
-🔭 I’m currently working on: Creating a toy programming language with Racket
+🔭 I’m currently working on: weather app(SKY-PEEKER)
 
-📫 How to reach me: `yama#9700` on Discord.
+📫 How to reach me: `Warlord#6118` on Discord.
 
-🌱 I’m currently learning: Racket
+🌱 I’m currently learning: JavaScript
 
-💬 Ask me about: Computer Science, Functional Programming or Python.
+💬 Ask me about: Computer Science, Web Development or JavaScript.
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=suryapsp&theme=synthwave)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=suryapsp&theme=synthwave" />
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Warlord64&theme=synthwave)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Warlord64&theme=synthwave" />
 
 
