@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I’m currently working on: weather app(SKY-PEEKER)
+🔭 I’m currently working on: 30 day web development challenge.
 
 📫 How to reach me: `Warlord#6118` on Discord.
 
