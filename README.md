@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-🔭 I’m currently working on: 30 day web development challenge.
+🔭 I’m currently working on: A Social media webiste named as QUILL.
 
 📫 How to reach me: `Warlord#6118` on Discord.
 
-🌱 I’m currently learning: JavaScript
+🌱 I’m currently learning: CPP
 
 💬 Ask me about: Computer Science, Web Development or JavaScript.
 
